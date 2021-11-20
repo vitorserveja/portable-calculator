@@ -1,7 +1,4 @@
-<html background-image url: https://images.wallpapersden.com/image/download/beautiful-hd-mountain_bG1raWWUmZqaraWkpJRmaWVlrW5lZQ.jpg>
-  <head>
-    <title>INFO</title>
-  </head>
+<html style background-image url: https://images.wallpapersden.com/image/download/beautiful-hd-mountain_bG1raWWUmZqaraWkpJRmaWVlrW5lZQ.jpg>
 # Universal-Calculator
 <h1 align:"center">Calculadora Disponivel Em, English, 日本, E Português (Brazil).</h1><p>
   <h3>Português Info:</h3>
