@@ -1,6 +1,6 @@
 
 <h1 align:"center">Calculadora Disponivel Em, English, 日本, E Português (Brazil).</h1><p>
-<p><h5> Download: wget  </h5>
+<p><h5> Download: git clone https://github.com/coelhodesu/Universal-Calculator/ </h5>
   
 <h3>Português Info:</h3>
   Calculadora Criada Em Ruby Para Rodar Num Terminal/CMD, De Um Jeito Completamente Discreto, Universal Calculator Foi Criada Em Novembro De 2021.<p>
