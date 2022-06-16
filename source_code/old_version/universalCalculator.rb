@@ -1,6 +1,8 @@
 #coding: utf-8
 #a program created in ruby
-#program created by @coelhodesuichi
+#program created by @weevitor
+#ultima data que o projeto em ruby foi mexido: 20/nov/2021
+#projeto foi reconstruido em Crystal, porém a versão em ruby ainda funciona!
 
 class String
   # colorization
