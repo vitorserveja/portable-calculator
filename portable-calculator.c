@@ -1,5 +1,5 @@
 // this code is free to use and modify <3
-// @joaovitor-eu
+//pepelegal
 
 #include <stdio.h>
 #include <stdlib.h>
