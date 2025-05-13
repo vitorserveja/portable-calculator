@@ -1,0 +1,1 @@
+to compile: **`gcc main.c -o midori-calculator`**
